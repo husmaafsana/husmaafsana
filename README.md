@@ -5,7 +5,7 @@ Here's a bit about me:
 - 🔭 I'm currently exploring the world of programming and web development.
 - 🌱 I have knowledge and experience in Python programming language.
 - 💻 I'm familiar with creating web pages using HTML and CSS.
-- 🌟 Currently, I'm excitedly learning the Django framework for web development.
+- 🌟 Currently enhancing my skills in JavaScript through self-learning and online resources.
 
 ## About Me
 
@@ -14,8 +14,7 @@ I am passionate about leveraging technology to solve real-world problems and cre
 ## Skills
 
 - Programming Languages: Python
-- Web Development: HTML, CSS
-- Frameworks: Django (Currently learning)
+- Web Development: HTML, CSS, JavaScript
 - Tools : Visual Studio Code
 
 ## Get in Touch
